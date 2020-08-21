@@ -7,6 +7,8 @@
     * [state_notifier と freezed を使って、Flutterのカウンターアプリをつくるよ - Qiita](https://qiita.com/karamage/items/4b1aff984b1af7541b73#%E3%81%8A%E3%82%8F%E3%82%8A%E3%81%AB)
 
 * 以下参考
+    * [Flutterとstate_notifierとfreezedで作るTodoアプリ - Qiita](https://qiita.com/seiichi3141/items/49f1db76f647335591c6)
+    * [FlutterのStateNotifierパターンでカウントアップアプリ作ってみた - Qiita](https://qiita.com/RyoShimizu/items/a625bb96f93b759f67b8)
     * [Flutter freezedパッケージいい感じかも - Qiita](https://qiita.com/_masaokb/items/19a93be6079a80ac2d85)
     * [state_notifier | Dart Package](https://pub.dev/packages/state_notifier)
     * [freezed | Dart Package](https://pub.dev/packages/freezed)
